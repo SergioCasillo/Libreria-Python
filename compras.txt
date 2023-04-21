@@ -1,0 +1,6 @@
+sergio, x@x.com , Harry Potter
+sergio, x@x.com , Los juegos del hambre
+sergio, x@x.com , Crepúsculo
+sergio, sapo@xd.com, Harry Potter
+sergio, sapo@xd.com, Los juegos del hambre
+sergio, sapo@xd.com, Crepúsculo
